@@ -1,11 +1,10 @@
 {
-    "version": "v0.1.1",
-    "notes": "Fixing small bugs",
-    "pub_data": "2022-06-19T11:33:23.703Z",
+    "version": "v0.2.0",
+    "notes": "Adding VicarShare (P2P Character Share), adding Folders to order Characters, adding Blood Magic Blood Rituals, adding Version Text in Settings and fixing some bugs",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTnp3dGpUY3REU0NVMGxTSG5EVzF5NTBBd0Q5SEowU0xwbmNpRTZadlZIYnd0U0FObU9acUhjVFRVVUFPT0pwQWhZLzR5NWhtbGVWU0cvU0lJdGlCRXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU1NjM4NDUwCWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzAuMS4xX3g2NF9kZS1ERS5tc2kuemlwCnlKQk5nT0g4WUZsM21Dd1ZXYkZMU2tSejhWYjY3amJYZXB3K3JHK1RxZFl1VENzMjlidFFsMVpYc0R3cU95WTMweEZZczYrYmRBZ1NQVGw1RWN5U0JnPT0K",
-            "url": "https://github.com/VicarTeam/Vicar/releases/download/v0.1.1/Vicar_0.1.1_x64_de-DE.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTi81eStLOFBmbzNXWE9jKzE1Wm1ITFpFV1J4NW1SUHVCNFBLNDZrcjhMQnIyOWsrMG9MV3J0Q01QUlBXSVhtNnNraTBBR0l6Nys3QUUxTm1hb3BjUVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU1NjcxOTcxCWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzAuMi4wX3g2NF9kZS1ERS5tc2kuemlwCkI2SU1mT2EwRWE1aXVYcTJNYlR2SXNkNldmbmtBK1Nhb1VRZVpEZVE5eFdqditycWtLUkxoaGF5VWcvN2VwYWhYeXptZEZGOVhpSlN3Sm9hcHgrTEFRPT0K",
+            "url": "https://github.com/VicarTeam/Vicar/releases/download/v0.2.0/Vicar_0.2.0_x64_de-DE.msi.zip"
         }
     }
 }
