@@ -1,8 +1,11 @@
 {
-    "version": "v0.1.0",
-    "notes": "First Release - only de-DE",
-    "pub_data": "2022-06-19T11:13:51.804Z",
+    "version": "v0.1.1",
+    "notes": "Fixing small bugs",
+    "pub_data": "2022-06-19T11:33:23.703Z",
     "platforms": {
-
+        "windows-x86_64": {
+            "signature": "https://github.com/VicarTeam/Vicar/releases/download/v0.1.1/Vicar_0.1.1_x64_de-DE.msi.zip.sig",
+            "url": "https://github.com/VicarTeam/Vicar/releases/download/v0.1.1/Vicar_0.1.1_x64_de-DE.msi.zip"
+        }
     }
 }
