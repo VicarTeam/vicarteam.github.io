@@ -1,10 +1,10 @@
 {
-    "version": "v0.2.0",
-    "notes": "Adding VicarShare (P2P Character Share), adding Folders to order Characters, adding Blood Magic Blood Rituals, adding Version Text in Settings and fixing some bugs",
+    "version": "v1.0.0",
+    "notes": "Added English Language Support",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTi81eStLOFBmbzNXWE9jKzE1Wm1ITFpFV1J4NW1SUHVCNFBLNDZrcjhMQnIyOWsrMG9MV3J0Q01QUlBXSVhtNnNraTBBR0l6Nys3QUUxTm1hb3BjUVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU1NjcxOTcxCWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzAuMi4wX3g2NF9kZS1ERS5tc2kuemlwCkI2SU1mT2EwRWE1aXVYcTJNYlR2SXNkNldmbmtBK1Nhb1VRZVpEZVE5eFdqditycWtLUkxoaGF5VWcvN2VwYWhYeXptZEZGOVhpSlN3Sm9hcHgrTEFRPT0K",
-            "url": "https://github.com/VicarTeam/Vicar/releases/download/v0.2.0/Vicar_0.2.0_x64_de-DE.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTnpZeC91dS9VYmxmVlpUZTMrcEYzdnc5R3FzOHRTdzUvRS9STkxURW0rZ3lZM0d6Q2hoTTRnQVpZL1pqNkY5bXZiQWZwQXhZc1czMkl4MndleTExRGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU1ODM3Mzk5CWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMC4wX3g2NF9lbi1VUy5tc2kuemlwCjAvM2VBNFczSGY0a1dSZk9CUjlWM3Mza1YzVkJUQlVGeDNmdi9TbW1sQXhONWJmV2s1NFBTYlFQYzBnRXNCQXBhS1Bjb0VqREIvUTRSUisxcVBHc0JnPT0K",
+            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.0.0/Vicar_1.0.0_x64_en-US.msi.zip"
         }
     }
 }

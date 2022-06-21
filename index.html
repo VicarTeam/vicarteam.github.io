@@ -1,12 +1,50 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Official VicarTeam Page</title>
+    <title>Vicar - Your V5 Character Tool</title>
+    <link rel="icon" href="assets/img/icon.png">
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <meta name='viewport' content='width=device-width, initial-scale=1'>
 </head>
 <body>
-    
+<div class="wrapper">
+    <div class="container">
+        <h2 class="title">Vicar</h2>
+        <hr class="border">
+        <span class="slogan">Helps you <span class="highlighted" id="slogan">create</span> your V5 Characters</span>
+        <span class="slogan">Without the need to look into the books every <span class="highlighted">5</span> seconds!</span>
+        <hr class="border">
+
+        <a class="button" href="https://github.com/VicarTeam/Vicar/releases/latest">Download now!</a>
+
+        <span class="slogan" style="margin: 2rem">or</span>
+        <span class="slogan highlighted">Help our community:</span>
+        <div class="social-media">
+            <a href="https://github.com/VicarTeam/Vicar"><i class="fa-brands fa-github"></i></a>
+            <a href="https://discord.gg/YGnezapwf5"><i class="fa-brands fa-discord"></i></a>
+        </div>
+    </div>
+</div>
+
+<script>
+    const slogans = [
+        "create", "manage", "share", "level"
+    ];
+    let currentSlogan = 0;
+
+    function nextSlogan() {
+        currentSlogan++;
+        if (currentSlogan >= slogans.length) {
+            currentSlogan = 0;
+        }
+        document.getElementById("slogan").innerText = slogans[currentSlogan];
+    }
+
+    setInterval(nextSlogan, 5000);
+</script>
 </body>
 </html>
