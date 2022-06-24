@@ -1,10 +1,10 @@
 {
-    "version": "v1.0.1",
-    "notes": "Fix Requirement not met bug, fix all Rituals could be selected when creating chars",
+    "version": "v1.1.0",
+    "notes": "Adding VicarPlay - P2P Chat with Avatar Show Function (will get more Features in the Future)",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTjlUUVc1QWphaFhNNEk1MWFHUDdiaS9ZRVdWLzVTbUQ2bUJka1d3NGpNa0Y3UExvOHV4d3Y5ZUtCenA0VXMzM25SWjl3NXYxRHc1TU5ZNzZ6djVFdVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU1OTMzMTAzCWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMC4xX3g2NF9lbi1VUy5tc2kuemlwCmE1TGtDYzNvT3hxV0E2KzdYVS82azFyLzdIdWhFNnJ3N3VTaExyQ2g4ZEhFNGcrUXNjUmNXOEdPZXpaK0Y1ZXM3blBZcyt4THdnR0RjM0NxTkZoaEFBPT0K",
-            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.0.1/Vicar_1.0.1_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTjhQSkZIZjlmL1c5eUlsWTlmeFB1aFdRaTYyNFdNeUtWS01PVDAxZy9IQ2wrTklrenh2OHV5S2VsTStNVTZZdVpGVCszNGphU0VUeFYxZm1YSll2ZFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2MTAyNDUyCWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMS4wX3g2NF9lbi1VUy5tc2kuemlwClN4ZXFibGpTWnRmSVNaVUpOMVdFanJSYlR4SEM2Sm42dFRSb1lMWDA2MkpFSkZTTG5VT3ZoUFU5QVZBR3RSQm5jZXVBaE5qYWloNXE0UkZDb3ZpR0NBPT0K",
+            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.1.0/Vicar_1.1.0_x64_en-US.msi.zip"
         }
     }
 }
