@@ -1,10 +1,10 @@
 {
-    "version": "v1.1.1",
-    "notes": "Adding more features to VicarPlay (Opaque Mode; Commands)",
+    "version": "v1.1.2",
+    "notes": "Fix some bugs; adding trackers for willpower, health and stains",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTjZVY1FYaFRoaHdWZlc3VzhTN2NQMVU5MC9XQ0kwK0xzOWo5TUdQeU0xQXprN3RyTGF3WENlZ2NYYmU0NjRPS214RkhHbjVqRitFK2RxeXNoYXJET0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2MTgyOTQ0CWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMS4xX3g2NF9lbi1VUy5tc2kuemlwCnpTcEYxR0cxSnFnYU1YcWwyUVQxaDRuODdDNFdWY015MzlWUHJidlVQY1JocUVFMU90MTZsUmQzcURSdkN2SWhLUFlYSlVHaldqUFpJeGxGS3VRM0NRPT0K",
-            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.1.1/Vicar_1.1.1_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTjFJQ1F3bGU5TzhoME8vVjVHWFpOU0JQeExrRzZ4by85cnVSdnB5eGQ4cnRKWWg3QkNjV0pFSUoyZUxtVmd4YXNablQzOFBhQTN3dktabVROa2xiM1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2MTk2OTI4CWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMS4yX3g2NF9lbi1VUy5tc2kuemlwCm1DUDcxNE9GbHlEUEpJT1JPOUFBUm1lczZ6OTVFbDJFbzJYSHVZVTQ1eXRjSDYxV3pCWmZJTmZ6Z3pUeVd6M01XYmIvVHJQcG9ORUFUb0pGaTRhOUJ3PT0K",
+            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.1.2/Vicar_1.1.2_x64_en-US.msi.zip"
         }
     }
 }
