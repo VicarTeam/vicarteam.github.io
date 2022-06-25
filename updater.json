@@ -1,10 +1,10 @@
 {
-    "version": "v1.1.0",
-    "notes": "Adding VicarPlay - P2P Chat with Avatar Show Function (will get more Features in the Future)",
+    "version": "v1.1.1",
+    "notes": "Adding more features to VicarPlay (Opaque Mode; Commands)",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTjhQSkZIZjlmL1c5eUlsWTlmeFB1aFdRaTYyNFdNeUtWS01PVDAxZy9IQ2wrTklrenh2OHV5S2VsTStNVTZZdVpGVCszNGphU0VUeFYxZm1YSll2ZFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2MTAyNDUyCWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMS4wX3g2NF9lbi1VUy5tc2kuemlwClN4ZXFibGpTWnRmSVNaVUpOMVdFanJSYlR4SEM2Sm42dFRSb1lMWDA2MkpFSkZTTG5VT3ZoUFU5QVZBR3RSQm5jZXVBaE5qYWloNXE0UkZDb3ZpR0NBPT0K",
-            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.1.0/Vicar_1.1.0_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTjZVY1FYaFRoaHdWZlc3VzhTN2NQMVU5MC9XQ0kwK0xzOWo5TUdQeU0xQXprN3RyTGF3WENlZ2NYYmU0NjRPS214RkhHbjVqRitFK2RxeXNoYXJET0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2MTgyOTQ0CWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMS4xX3g2NF9lbi1VUy5tc2kuemlwCnpTcEYxR0cxSnFnYU1YcWwyUVQxaDRuODdDNFdWY015MzlWUHJidlVQY1JocUVFMU90MTZsUmQzcURSdkN2SWhLUFlYSlVHaldqUFpJeGxGS3VRM0NRPT0K",
+            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.1.1/Vicar_1.1.1_x64_en-US.msi.zip"
         }
     }
 }
