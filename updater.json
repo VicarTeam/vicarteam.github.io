@@ -1,10 +1,10 @@
 {
-    "version": "v1.1.3",
+    "version": "v1.1.4",
     "notes": "https://github.com/VicarTeam/Vicar/pull/7",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTjBGTm1xRXZkdUdJUHQwWVVteHdQWGYvbEgrdkxWL1JZZzd3akYvaGpFLzUyWGlTZE15ZnpPa2RNa2NwQU5GcHBMQjhteWNWNzZTeUZVL3puLzRTUUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2NTI4MzI4CWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMS4zX3g2NF9lbi1VUy5tc2kuemlwCkMwVncrSWNXcHNMcFkvUVYyamJlYk1QeW5PQ3lkSzUxZ0dOWHVuRXp6dTFuYTJhSWdtT1FqVm9USktsb3Fxc3dXbk1vcE1iMDhmUHhFYUhaSUh4bENBPT0K",
-            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.1.3/Vicar_1.1.3_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTjJDeWpVRHNHazhKUlNTSDd2M21FSTNDNEthVEhjdm1vbHBJVDhXQjNybDRuNzh5eUh4Q3g4K1hZam5lRlBGVHhGRjBYZVc3MjJ4dWF1cW40WGQwekEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2NTMyNTY5CWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMS40X3g2NF9lbi1VUy5tc2kuemlwCndjS2VDSVdPZFNSZnVseXBVVTAxVWwrWTEvQmc4RnZiTVF5SnA0dXBUOUVCMmluY2FGNmtua2JKSjRhODRtQ0M0YnMvc09wWHlMUzdQdkg2c0tOQUF3PT0K",
+            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.1.4/Vicar_1.1.4_x64_en-US.msi.zip"
         }
     }
 }
