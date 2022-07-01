@@ -1,10 +1,10 @@
 {
-    "version": "v1.1.5",
-    "notes": "https://github.com/VicarTeam/Vicar/pull/10",
+    "version": "v1.1.6",
+    "notes": "Adding keep alive check and character syncing",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTitjajNuSkRQcWVtd2hpNGJUV25IRmowSUdrN01MVnN5OGZHWUNRTWYvWS81TmdpckswNFZnWXpiRVVGSSsxQWx3YjVwNlpuT25CY3RBMTJrTlEzM3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2NjI1MDU1CWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMS41X3g2NF9lbi1VUy5tc2kuemlwCmFRYjF4dUFUWWx0amIxSHZ4c3ZSY1QwMzF0bWdLYkFOT2RuaUFmWnAxdUdBa29jMEJCTHhzMkxSQnNLQlB1L0FSenZUMjlHSm1ZUWdPZFdDdjZCa0FBPT0K",
-            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.1.5/Vicar_1.1.5_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTnlKZHZpU2lhTm9Kd1RWN1Iva3pXTURGU0QwSHg1eUF0ZzRKQzF0clZaZ1kvMUxsVHpjaXp6TU5WYzJ3bTNNL0tTYXg4TzlJNFdYMU1qWE9sUVBydWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2NzE1ODI0CWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMS42X3g2NF9lbi1VUy5tc2kuemlwCjZOaldLMFJybzkyV0hOanNSc2ZZRVB5UGpMeUtDQVU2NTVoUVdXbktMN2UwU2dRS2g5Nk5rd0hqcGJ2VjhmZ25KRXNxclIwMjhJOEl1V0owS1NHeEJRPT0K",
+            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.1.6/Vicar_1.1.6_x64_en-US.msi.zip"
         }
     }
 }
