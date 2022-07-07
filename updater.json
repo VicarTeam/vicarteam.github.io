@@ -1,10 +1,10 @@
 {
-    "version": "v1.1.8",
-    "notes": "Adding advanced disciplines, adding full customization and fixing some bugs",
+    "version": "v1.1.9",
+    "notes": "Fix some bugs for 1.1.8 (Adding advanced disciplines and adding full customization)",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTjgzMzZMWnZwZzl3N20zWko3cDZ2OTlOU0dVNC9ZY1VHRHcyWUR0dTVGZVdPOGMxTFVWQnJTYS9KYzdBejFkeCtBcWo5UkttVXJzTzNDTk5XQUw2bkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3MTQ2MjgzCWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMS44X3g2NF9lbi1VUy5tc2kuemlwCjBUZCtOZFA2OEZ4ZEVyQkhNeXllanBjbjFhMlhYNnVVbldiUVkxdlpRcEEwTUQ3d21tdzRGbmpjSHlMdHZXTVVXd2wrVnBXcmQwbW8yOWxSTFhicUFBPT0K",
-            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.1.8/Vicar_1.1.8_x64_en-US.msi.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcHRWbGVsV1pQTjRmUE1wQ1puY1BvTkpWTmkycjFhTk1zc05WL0tKWkt5eFhmajAvUFcxeEFGRHIwTHFrZG5lcHVnSlJ3VmhZMjBlMStDWFdQcWNuUFVpRlhQVm13U1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU3MTkyMjYwCWZpbGU6RTpcRGV2ZWxvcG1lbnRcVmljYXJUZWFtXFZpY2FyXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL1ZpY2FyXzEuMS45X3g2NF9lbi1VUy5tc2kuemlwCnlYZUU2SFQyQkRIcnhTS3lRaEhnS3dZL1JIOXB4R0xnS2pydmhxUDJMTS84RHJ1b0lQL3QrSmU0SHNobDJocytvUU01S2xFT0hsNU9mUitVYVgxT0RRPT0K",
+            "url": "https://github.com/VicarTeam/Vicar/releases/download/v1.1.9/Vicar_1.1.9_x64_en-US.msi.zip"
         }
     }
 }
